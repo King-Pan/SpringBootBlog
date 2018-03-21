@@ -402,19 +402,19 @@ J2EE的整体解决方案和自动配置都在spring-boot-autoconfigure-2.0.0.RE
 
 STS/IDEA都支持Spring的项目创建向导快速创建Spring Boot项目
 
-![快速创建spring boot项目第一步](G:\视频资料\尚硅谷SpringBoot视频\学习文档\Spring Boot\images\Sping_init.png)
+![快速创建spring boot项目第一步](images\Sping_init.png)
 
-![（快速创建spring boot项目第二步](G:\视频资料\尚硅谷SpringBoot视频\学习文档\Spring Boot\images\spring_init2.png)
+![（快速创建spring boot项目第二步](images\spring_init2.png)
 
 > Project Type:如果选择Maven那么生成的就是一个完整的Spring Boot项目，有启动类（参考1-4-1）
 >
 > Project Type: 如果选择了Maven POM那么就只会生成一个pom.xml文件，不会生成src目录
 
-![快速创建spring boot项目第三步](G:\视频资料\尚硅谷SpringBoot视频\学习文档\Spring Boot\images\spring_init3.png)
+![快速创建spring boot项目第三步](images\spring_init3.png)
 
-![快速创建spring boot项目第四步](G:\视频资料\尚硅谷SpringBoot视频\学习文档\Spring Boot\images\spring_init4.png)
+![快速创建spring boot项目第四步](images\spring_init4.png)
 
-![快速创建spring boot项目第五步](G:\视频资料\尚硅谷SpringBoot视频\学习文档\Spring Boot\images\spring_init5.png)
+![快速创建spring boot项目第五步](images\spring_init5.png)
 
 > 依赖Spring Boot有两种方式
 
